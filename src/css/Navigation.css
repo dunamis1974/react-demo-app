@@ -1,0 +1,25 @@
+.nav-logo {
+  height: 40px;
+  margin-top: -10px;
+  animation: App-logo-spin infinite 20s linear;
+}
+
+.navbar > .container {
+  width: 100% !important;
+}
+
+.navbar .divider-vertical {
+    height: 50px;
+    margin: 0 9px;
+    border-right: 1px solid #ffffff;
+    border-left: 1px solid #f2f2f2;
+}
+
+.navbar .divider-vertical a {
+  display: none;
+}
+
+.navbar-inverse .divider-vertical {
+  border-right: 1px solid #9d9d9d;
+  border-left: 1px solid #9d9d9d;
+}
